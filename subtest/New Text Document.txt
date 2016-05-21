@@ -1,3 +1,5 @@
 fg sg fg sg s
 
 hajde da malo izmenimo fajl
+
+jops jedna izmena
